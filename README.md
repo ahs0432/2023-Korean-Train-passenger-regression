@@ -7,4 +7,4 @@
 - 총 기간: 2023.06.05 ~ 2023.06.06 (2일)
 
 ### 프로젝트 상세 내용
-[찬스의 개발 블로그](https://blog.false.kr/posts/Personal/Project/Korea-train-passenger-regression-2023.html) 참고
+- [찬스의 개발 블로그](https://blog.false.kr/posts/Personal/Project/Korea-train-passenger-regression-2023.html) 참고
